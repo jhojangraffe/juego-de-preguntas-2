@@ -26,8 +26,8 @@ const BANCO_PREGUNTAS = [
     correcta: 1,
   },
 {
-    texto: "¿Cual es el jugador de futbol con más goles en toda la historia?",
-    opciones: ["Messi", "Zlatan ibrahimovic", "Cristiano ronaldo", "Neymar"],
+    texto: "¿Cuál es el jugador de futbol con más goles en toda la historia?",
+    opciones: ["Messi", "Zlatan Ibrahimovic", "Cristiano Ronaldo", "Neymar"],
     correcta: 2,
   },
   {
